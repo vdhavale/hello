@@ -1,0 +1,3 @@
+'''This is simple python boto3 program to list all s3 buckets'''
+
+import boto3
